@@ -1,0 +1,128 @@
+C:\Users\Famine\Source\Repos\ProgettoEnterprise\Unicam.Paradigmi.Progetto\Unicam.Paradigmi.Progetto.Models\bin\Debug\net6.0\Unicam.Paradigmi.Progetto.Models.deps.json
+C:\Users\Famine\Source\Repos\ProgettoEnterprise\Unicam.Paradigmi.Progetto\Unicam.Paradigmi.Progetto.Models\bin\Debug\net6.0\Unicam.Paradigmi.Progetto.Models.dll
+C:\Users\Famine\Source\Repos\ProgettoEnterprise\Unicam.Paradigmi.Progetto\Unicam.Paradigmi.Progetto.Models\bin\Debug\net6.0\Unicam.Paradigmi.Progetto.Models.pdb
+C:\Users\Famine\Source\Repos\ProgettoEnterprise\Unicam.Paradigmi.Progetto\Unicam.Paradigmi.Progetto.Models\obj\Debug\net6.0\Unicam.Paradigmi.Progetto.Models.csproj.AssemblyReference.cache
+C:\Users\Famine\Source\Repos\ProgettoEnterprise\Unicam.Paradigmi.Progetto\Unicam.Paradigmi.Progetto.Models\obj\Debug\net6.0\Unicam.Paradigmi.Progetto.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Famine\Source\Repos\ProgettoEnterprise\Unicam.Paradigmi.Progetto\Unicam.Paradigmi.Progetto.Models\obj\Debug\net6.0\Unicam.Paradigmi.Progetto.Models.AssemblyInfoInputs.cache
+C:\Users\Famine\Source\Repos\ProgettoEnterprise\Unicam.Paradigmi.Progetto\Unicam.Paradigmi.Progetto.Models\obj\Debug\net6.0\Unicam.Paradigmi.Progetto.Models.AssemblyInfo.cs
+C:\Users\Famine\Source\Repos\ProgettoEnterprise\Unicam.Paradigmi.Progetto\Unicam.Paradigmi.Progetto.Models\obj\Debug\net6.0\Unicam.Paradigmi.Progetto.Models.csproj.CoreCompileInputs.cache
+C:\Users\Famine\Source\Repos\ProgettoEnterprise\Unicam.Paradigmi.Progetto\Unicam.Paradigmi.Progetto.Models\obj\Debug\net6.0\Unicam.Paradigmi.Progetto.Models.sourcelink.json
+C:\Users\Famine\Source\Repos\ProgettoEnterprise\Unicam.Paradigmi.Progetto\Unicam.Paradigmi.Progetto.Models\obj\Debug\net6.0\Unicam.Paradigmi.Progetto.Models.dll
+C:\Users\Famine\Source\Repos\ProgettoEnterprise\Unicam.Paradigmi.Progetto\Unicam.Paradigmi.Progetto.Models\obj\Debug\net6.0\refint\Unicam.Paradigmi.Progetto.Models.dll
+C:\Users\Famine\Source\Repos\ProgettoEnterprise\Unicam.Paradigmi.Progetto\Unicam.Paradigmi.Progetto.Models\obj\Debug\net6.0\Unicam.Paradigmi.Progetto.Models.pdb
+C:\Users\Famine\Source\Repos\ProgettoEnterprise\Unicam.Paradigmi.Progetto\Unicam.Paradigmi.Progetto.Models\obj\Debug\net6.0\ref\Unicam.Paradigmi.Progetto.Models.dll
+C:\Users\edott\OneDrive\Desktop\ProgettoEnterprise\EP\Unicam.Paradigmi.Progetto\Unicam.Paradigmi.Progetto.Models\obj\Debug\net6.0\Unicam.Paradigmi.Progetto.Models.csproj.AssemblyReference.cache
+C:\Users\edott\OneDrive\Desktop\ProgettoEnterprise\EP\Unicam.Paradigmi.Progetto\Unicam.Paradigmi.Progetto.Models\obj\Debug\net6.0\Unicam.Paradigmi.Progetto.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edott\OneDrive\Desktop\ProgettoEnterprise\EP\Unicam.Paradigmi.Progetto\Unicam.Paradigmi.Progetto.Models\obj\Debug\net6.0\Unicam.Paradigmi.Progetto.Models.AssemblyInfoInputs.cache
+C:\Users\edott\OneDrive\Desktop\ProgettoEnterprise\EP\Unicam.Paradigmi.Progetto\Unicam.Paradigmi.Progetto.Models\obj\Debug\net6.0\Unicam.Paradigmi.Progetto.Models.AssemblyInfo.cs
+C:\Users\edott\OneDrive\Desktop\ProgettoEnterprise\EP\Unicam.Paradigmi.Progetto\Unicam.Paradigmi.Progetto.Models\obj\Debug\net6.0\Unicam.Paradigmi.Progetto.Models.csproj.CoreCompileInputs.cache
+C:\Users\edott\OneDrive\Desktop\ProgettoEnterprise\EP\Unicam.Paradigmi.Progetto\Unicam.Paradigmi.Progetto.Models\obj\Debug\net6.0\Unicam.Paradigmi.Progetto.Models.sourcelink.json
+C:\Users\edott\OneDrive\Desktop\ProgettoEnterprise\EP\Unicam.Paradigmi.Progetto\Unicam.Paradigmi.Progetto.Models\obj\Debug\net6.0\Unicam.Paradigmi.Progetto.Models.dll
+C:\Users\edott\OneDrive\Desktop\ProgettoEnterprise\EP\Unicam.Paradigmi.Progetto\Unicam.Paradigmi.Progetto.Models\obj\Debug\net6.0\refint\Unicam.Paradigmi.Progetto.Models.dll
+C:\Users\edott\OneDrive\Desktop\ProgettoEnterprise\EP\Unicam.Paradigmi.Progetto\Unicam.Paradigmi.Progetto.Models\obj\Debug\net6.0\Unicam.Paradigmi.Progetto.Models.pdb
+C:\Users\edott\OneDrive\Desktop\ProgettoEnterprise\EP\Unicam.Paradigmi.Progetto\Unicam.Paradigmi.Progetto.Models\bin\Debug\net6.0\Unicam.Paradigmi.Progetto.Models.deps.json
+C:\Users\edott\OneDrive\Desktop\ProgettoEnterprise\EP\Unicam.Paradigmi.Progetto\Unicam.Paradigmi.Progetto.Models\bin\Debug\net6.0\Unicam.Paradigmi.Progetto.Models.dll
+C:\Users\edott\OneDrive\Desktop\ProgettoEnterprise\EP\Unicam.Paradigmi.Progetto\Unicam.Paradigmi.Progetto.Models\bin\Debug\net6.0\Unicam.Paradigmi.Progetto.Models.pdb
+C:\Users\edott\OneDrive\Desktop\ProgettoEnterprise\EP\Unicam.Paradigmi.Progetto\Unicam.Paradigmi.Progetto.Models\obj\Debug\net6.0\ref\Unicam.Paradigmi.Progetto.Models.dll
+C:\Users\Famine\Desktop\Nuova cartella (2)\Unicam.Paradigmi.Progetto\Unicam.Paradigmi.Progetto.Models\bin\Debug\net6.0\Unicam.Paradigmi.Progetto.Models.deps.json
+C:\Users\Famine\Desktop\Nuova cartella (2)\Unicam.Paradigmi.Progetto\Unicam.Paradigmi.Progetto.Models\bin\Debug\net6.0\Unicam.Paradigmi.Progetto.Models.dll
+C:\Users\Famine\Desktop\Nuova cartella (2)\Unicam.Paradigmi.Progetto\Unicam.Paradigmi.Progetto.Models\bin\Debug\net6.0\Unicam.Paradigmi.Progetto.Models.pdb
+C:\Users\Famine\Desktop\Nuova cartella (2)\Unicam.Paradigmi.Progetto\Unicam.Paradigmi.Progetto.Models\obj\Debug\net6.0\Unicam.Paradigmi.Progetto.Models.csproj.AssemblyReference.cache
+C:\Users\Famine\Desktop\Nuova cartella (2)\Unicam.Paradigmi.Progetto\Unicam.Paradigmi.Progetto.Models\obj\Debug\net6.0\Unicam.Paradigmi.Progetto.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Famine\Desktop\Nuova cartella (2)\Unicam.Paradigmi.Progetto\Unicam.Paradigmi.Progetto.Models\obj\Debug\net6.0\Unicam.Paradigmi.Progetto.Models.AssemblyInfoInputs.cache
+C:\Users\Famine\Desktop\Nuova cartella (2)\Unicam.Paradigmi.Progetto\Unicam.Paradigmi.Progetto.Models\obj\Debug\net6.0\Unicam.Paradigmi.Progetto.Models.AssemblyInfo.cs
+C:\Users\Famine\Desktop\Nuova cartella (2)\Unicam.Paradigmi.Progetto\Unicam.Paradigmi.Progetto.Models\obj\Debug\net6.0\Unicam.Paradigmi.Progetto.Models.csproj.CoreCompileInputs.cache
+C:\Users\Famine\Desktop\Nuova cartella (2)\Unicam.Paradigmi.Progetto\Unicam.Paradigmi.Progetto.Models\obj\Debug\net6.0\Unicam.Paradigmi.Progetto.Models.sourcelink.json
+C:\Users\Famine\Desktop\Nuova cartella (2)\Unicam.Paradigmi.Progetto\Unicam.Paradigmi.Progetto.Models\obj\Debug\net6.0\Unicam.Paradigmi.Progetto.Models.dll
+C:\Users\Famine\Desktop\Nuova cartella (2)\Unicam.Paradigmi.Progetto\Unicam.Paradigmi.Progetto.Models\obj\Debug\net6.0\refint\Unicam.Paradigmi.Progetto.Models.dll
+C:\Users\Famine\Desktop\Nuova cartella (2)\Unicam.Paradigmi.Progetto\Unicam.Paradigmi.Progetto.Models\obj\Debug\net6.0\Unicam.Paradigmi.Progetto.Models.pdb
+C:\Users\Famine\Desktop\Nuova cartella (2)\Unicam.Paradigmi.Progetto\Unicam.Paradigmi.Progetto.Models\obj\Debug\net6.0\ref\Unicam.Paradigmi.Progetto.Models.dll
+C:\Users\Famine\Desktop\Nuova cartella (3)\Unicam.Paradigmi.Progetto\Unicam.Paradigmi.Progetto.Models\bin\Debug\net6.0\Unicam.Paradigmi.Progetto.Models.deps.json
+C:\Users\Famine\Desktop\Nuova cartella (3)\Unicam.Paradigmi.Progetto\Unicam.Paradigmi.Progetto.Models\bin\Debug\net6.0\Unicam.Paradigmi.Progetto.Models.dll
+C:\Users\Famine\Desktop\Nuova cartella (3)\Unicam.Paradigmi.Progetto\Unicam.Paradigmi.Progetto.Models\bin\Debug\net6.0\Unicam.Paradigmi.Progetto.Models.pdb
+C:\Users\Famine\Desktop\Nuova cartella (3)\Unicam.Paradigmi.Progetto\Unicam.Paradigmi.Progetto.Models\obj\Debug\net6.0\Unicam.Paradigmi.Progetto.Models.csproj.AssemblyReference.cache
+C:\Users\Famine\Desktop\Nuova cartella (3)\Unicam.Paradigmi.Progetto\Unicam.Paradigmi.Progetto.Models\obj\Debug\net6.0\Unicam.Paradigmi.Progetto.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Famine\Desktop\Nuova cartella (3)\Unicam.Paradigmi.Progetto\Unicam.Paradigmi.Progetto.Models\obj\Debug\net6.0\Unicam.Paradigmi.Progetto.Models.AssemblyInfoInputs.cache
+C:\Users\Famine\Desktop\Nuova cartella (3)\Unicam.Paradigmi.Progetto\Unicam.Paradigmi.Progetto.Models\obj\Debug\net6.0\Unicam.Paradigmi.Progetto.Models.AssemblyInfo.cs
+C:\Users\Famine\Desktop\Nuova cartella (3)\Unicam.Paradigmi.Progetto\Unicam.Paradigmi.Progetto.Models\obj\Debug\net6.0\Unicam.Paradigmi.Progetto.Models.csproj.CoreCompileInputs.cache
+C:\Users\Famine\Desktop\Nuova cartella (3)\Unicam.Paradigmi.Progetto\Unicam.Paradigmi.Progetto.Models\obj\Debug\net6.0\Unicam.Paradigmi.Progetto.Models.sourcelink.json
+C:\Users\Famine\Desktop\Nuova cartella (3)\Unicam.Paradigmi.Progetto\Unicam.Paradigmi.Progetto.Models\obj\Debug\net6.0\Unicam.Paradigmi.Progetto.Models.dll
+C:\Users\Famine\Desktop\Nuova cartella (3)\Unicam.Paradigmi.Progetto\Unicam.Paradigmi.Progetto.Models\obj\Debug\net6.0\refint\Unicam.Paradigmi.Progetto.Models.dll
+C:\Users\Famine\Desktop\Nuova cartella (3)\Unicam.Paradigmi.Progetto\Unicam.Paradigmi.Progetto.Models\obj\Debug\net6.0\Unicam.Paradigmi.Progetto.Models.pdb
+C:\Users\Famine\Desktop\Nuova cartella (3)\Unicam.Paradigmi.Progetto\Unicam.Paradigmi.Progetto.Models\obj\Debug\net6.0\ref\Unicam.Paradigmi.Progetto.Models.dll
+C:\Users\edott\OneDrive\Desktop\ProgettoEnterprise\EP3\Unicam.Paradigmi.Progetto\Unicam.Paradigmi.Progetto.Models\bin\Debug\net6.0\Unicam.Paradigmi.Progetto.Models.deps.json
+C:\Users\edott\OneDrive\Desktop\ProgettoEnterprise\EP3\Unicam.Paradigmi.Progetto\Unicam.Paradigmi.Progetto.Models\bin\Debug\net6.0\Unicam.Paradigmi.Progetto.Models.dll
+C:\Users\edott\OneDrive\Desktop\ProgettoEnterprise\EP3\Unicam.Paradigmi.Progetto\Unicam.Paradigmi.Progetto.Models\bin\Debug\net6.0\Unicam.Paradigmi.Progetto.Models.pdb
+C:\Users\edott\OneDrive\Desktop\ProgettoEnterprise\EP3\Unicam.Paradigmi.Progetto\Unicam.Paradigmi.Progetto.Models\obj\Debug\net6.0\Unicam.Paradigmi.Progetto.Models.csproj.AssemblyReference.cache
+C:\Users\edott\OneDrive\Desktop\ProgettoEnterprise\EP3\Unicam.Paradigmi.Progetto\Unicam.Paradigmi.Progetto.Models\obj\Debug\net6.0\Unicam.Paradigmi.Progetto.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edott\OneDrive\Desktop\ProgettoEnterprise\EP3\Unicam.Paradigmi.Progetto\Unicam.Paradigmi.Progetto.Models\obj\Debug\net6.0\Unicam.Paradigmi.Progetto.Models.AssemblyInfoInputs.cache
+C:\Users\edott\OneDrive\Desktop\ProgettoEnterprise\EP3\Unicam.Paradigmi.Progetto\Unicam.Paradigmi.Progetto.Models\obj\Debug\net6.0\Unicam.Paradigmi.Progetto.Models.AssemblyInfo.cs
+C:\Users\edott\OneDrive\Desktop\ProgettoEnterprise\EP3\Unicam.Paradigmi.Progetto\Unicam.Paradigmi.Progetto.Models\obj\Debug\net6.0\Unicam.Paradigmi.Progetto.Models.csproj.CoreCompileInputs.cache
+C:\Users\edott\OneDrive\Desktop\ProgettoEnterprise\EP3\Unicam.Paradigmi.Progetto\Unicam.Paradigmi.Progetto.Models\obj\Debug\net6.0\Unicam.Paradigmi.Progetto.Models.sourcelink.json
+C:\Users\edott\OneDrive\Desktop\ProgettoEnterprise\EP3\Unicam.Paradigmi.Progetto\Unicam.Paradigmi.Progetto.Models\obj\Debug\net6.0\Unicam.Paradigmi.Progetto.Models.dll
+C:\Users\edott\OneDrive\Desktop\ProgettoEnterprise\EP3\Unicam.Paradigmi.Progetto\Unicam.Paradigmi.Progetto.Models\obj\Debug\net6.0\refint\Unicam.Paradigmi.Progetto.Models.dll
+C:\Users\edott\OneDrive\Desktop\ProgettoEnterprise\EP3\Unicam.Paradigmi.Progetto\Unicam.Paradigmi.Progetto.Models\obj\Debug\net6.0\Unicam.Paradigmi.Progetto.Models.pdb
+C:\Users\edott\OneDrive\Desktop\ProgettoEnterprise\EP3\Unicam.Paradigmi.Progetto\Unicam.Paradigmi.Progetto.Models\obj\Debug\net6.0\ref\Unicam.Paradigmi.Progetto.Models.dll
+C:\Users\edott\OneDrive\Desktop\Desktop\UniApp\Enterprise\ProgettoEnterprise\EP4\Unicam.Paradigmi.Progetto\Unicam.Paradigmi.Progetto.Models\bin\Debug\net6.0\Unicam.Paradigmi.Progetto.Models.deps.json
+C:\Users\edott\OneDrive\Desktop\Desktop\UniApp\Enterprise\ProgettoEnterprise\EP4\Unicam.Paradigmi.Progetto\Unicam.Paradigmi.Progetto.Models\bin\Debug\net6.0\Unicam.Paradigmi.Progetto.Models.dll
+C:\Users\edott\OneDrive\Desktop\Desktop\UniApp\Enterprise\ProgettoEnterprise\EP4\Unicam.Paradigmi.Progetto\Unicam.Paradigmi.Progetto.Models\bin\Debug\net6.0\Unicam.Paradigmi.Progetto.Models.pdb
+C:\Users\edott\OneDrive\Desktop\Desktop\UniApp\Enterprise\ProgettoEnterprise\EP4\Unicam.Paradigmi.Progetto\Unicam.Paradigmi.Progetto.Models\obj\Debug\net6.0\Unicam.Paradigmi.Progetto.Models.csproj.AssemblyReference.cache
+C:\Users\edott\OneDrive\Desktop\Desktop\UniApp\Enterprise\ProgettoEnterprise\EP4\Unicam.Paradigmi.Progetto\Unicam.Paradigmi.Progetto.Models\obj\Debug\net6.0\Unicam.Paradigmi.Progetto.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edott\OneDrive\Desktop\Desktop\UniApp\Enterprise\ProgettoEnterprise\EP4\Unicam.Paradigmi.Progetto\Unicam.Paradigmi.Progetto.Models\obj\Debug\net6.0\Unicam.Paradigmi.Progetto.Models.AssemblyInfoInputs.cache
+C:\Users\edott\OneDrive\Desktop\Desktop\UniApp\Enterprise\ProgettoEnterprise\EP4\Unicam.Paradigmi.Progetto\Unicam.Paradigmi.Progetto.Models\obj\Debug\net6.0\Unicam.Paradigmi.Progetto.Models.AssemblyInfo.cs
+C:\Users\edott\OneDrive\Desktop\Desktop\UniApp\Enterprise\ProgettoEnterprise\EP4\Unicam.Paradigmi.Progetto\Unicam.Paradigmi.Progetto.Models\obj\Debug\net6.0\Unicam.Paradigmi.Progetto.Models.csproj.CoreCompileInputs.cache
+C:\Users\edott\OneDrive\Desktop\Desktop\UniApp\Enterprise\ProgettoEnterprise\EP4\Unicam.Paradigmi.Progetto\Unicam.Paradigmi.Progetto.Models\obj\Debug\net6.0\Unicam.Paradigmi.Progetto.Models.sourcelink.json
+C:\Users\edott\OneDrive\Desktop\Desktop\UniApp\Enterprise\ProgettoEnterprise\EP4\Unicam.Paradigmi.Progetto\Unicam.Paradigmi.Progetto.Models\obj\Debug\net6.0\Unicam.Paradigmi.Progetto.Models.dll
+C:\Users\edott\OneDrive\Desktop\Desktop\UniApp\Enterprise\ProgettoEnterprise\EP4\Unicam.Paradigmi.Progetto\Unicam.Paradigmi.Progetto.Models\obj\Debug\net6.0\refint\Unicam.Paradigmi.Progetto.Models.dll
+C:\Users\edott\OneDrive\Desktop\Desktop\UniApp\Enterprise\ProgettoEnterprise\EP4\Unicam.Paradigmi.Progetto\Unicam.Paradigmi.Progetto.Models\obj\Debug\net6.0\Unicam.Paradigmi.Progetto.Models.pdb
+C:\Users\edott\OneDrive\Desktop\Desktop\UniApp\Enterprise\ProgettoEnterprise\EP4\Unicam.Paradigmi.Progetto\Unicam.Paradigmi.Progetto.Models\obj\Debug\net6.0\ref\Unicam.Paradigmi.Progetto.Models.dll
+C:\Users\Alice\Source\Repos\ProgettoEnterprise\Unicam.Paradigmi.Progetto\Unicam.Paradigmi.Progetto.Models\bin\Debug\net6.0\Unicam.Paradigmi.Progetto.Models.deps.json
+C:\Users\Alice\Source\Repos\ProgettoEnterprise\Unicam.Paradigmi.Progetto\Unicam.Paradigmi.Progetto.Models\bin\Debug\net6.0\Unicam.Paradigmi.Progetto.Models.dll
+C:\Users\Alice\Source\Repos\ProgettoEnterprise\Unicam.Paradigmi.Progetto\Unicam.Paradigmi.Progetto.Models\bin\Debug\net6.0\Unicam.Paradigmi.Progetto.Models.pdb
+C:\Users\Alice\Source\Repos\ProgettoEnterprise\Unicam.Paradigmi.Progetto\Unicam.Paradigmi.Progetto.Models\obj\Debug\net6.0\Unicam.Paradigmi.Progetto.Models.csproj.AssemblyReference.cache
+C:\Users\Alice\Source\Repos\ProgettoEnterprise\Unicam.Paradigmi.Progetto\Unicam.Paradigmi.Progetto.Models\obj\Debug\net6.0\Unicam.Paradigmi.Progetto.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alice\Source\Repos\ProgettoEnterprise\Unicam.Paradigmi.Progetto\Unicam.Paradigmi.Progetto.Models\obj\Debug\net6.0\Unicam.Paradigmi.Progetto.Models.AssemblyInfoInputs.cache
+C:\Users\Alice\Source\Repos\ProgettoEnterprise\Unicam.Paradigmi.Progetto\Unicam.Paradigmi.Progetto.Models\obj\Debug\net6.0\Unicam.Paradigmi.Progetto.Models.AssemblyInfo.cs
+C:\Users\Alice\Source\Repos\ProgettoEnterprise\Unicam.Paradigmi.Progetto\Unicam.Paradigmi.Progetto.Models\obj\Debug\net6.0\Unicam.Paradigmi.Progetto.Models.csproj.CoreCompileInputs.cache
+C:\Users\Alice\Source\Repos\ProgettoEnterprise\Unicam.Paradigmi.Progetto\Unicam.Paradigmi.Progetto.Models\obj\Debug\net6.0\Unicam.Paradigmi.Progetto.Models.dll
+C:\Users\Alice\Source\Repos\ProgettoEnterprise\Unicam.Paradigmi.Progetto\Unicam.Paradigmi.Progetto.Models\obj\Debug\net6.0\refint\Unicam.Paradigmi.Progetto.Models.dll
+C:\Users\Alice\Source\Repos\ProgettoEnterprise\Unicam.Paradigmi.Progetto\Unicam.Paradigmi.Progetto.Models\obj\Debug\net6.0\Unicam.Paradigmi.Progetto.Models.pdb
+C:\Users\Alice\Source\Repos\ProgettoEnterprise\Unicam.Paradigmi.Progetto\Unicam.Paradigmi.Progetto.Models\obj\Debug\net6.0\ref\Unicam.Paradigmi.Progetto.Models.dll
+C:\Users\Famine\Desktop\Nuova cartella (4)\Unicam.Paradigmi.Progetto\Unicam.Paradigmi.Progetto.Models\bin\Debug\net6.0\Unicam.Paradigmi.Progetto.Models.deps.json
+C:\Users\Famine\Desktop\Nuova cartella (4)\Unicam.Paradigmi.Progetto\Unicam.Paradigmi.Progetto.Models\bin\Debug\net6.0\Unicam.Paradigmi.Progetto.Models.dll
+C:\Users\Famine\Desktop\Nuova cartella (4)\Unicam.Paradigmi.Progetto\Unicam.Paradigmi.Progetto.Models\bin\Debug\net6.0\Unicam.Paradigmi.Progetto.Models.pdb
+C:\Users\Famine\Desktop\Nuova cartella (4)\Unicam.Paradigmi.Progetto\Unicam.Paradigmi.Progetto.Models\obj\Debug\net6.0\Unicam.Paradigmi.Progetto.Models.csproj.AssemblyReference.cache
+C:\Users\Famine\Desktop\Nuova cartella (4)\Unicam.Paradigmi.Progetto\Unicam.Paradigmi.Progetto.Models\obj\Debug\net6.0\Unicam.Paradigmi.Progetto.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Famine\Desktop\Nuova cartella (4)\Unicam.Paradigmi.Progetto\Unicam.Paradigmi.Progetto.Models\obj\Debug\net6.0\Unicam.Paradigmi.Progetto.Models.AssemblyInfoInputs.cache
+C:\Users\Famine\Desktop\Nuova cartella (4)\Unicam.Paradigmi.Progetto\Unicam.Paradigmi.Progetto.Models\obj\Debug\net6.0\Unicam.Paradigmi.Progetto.Models.AssemblyInfo.cs
+C:\Users\Famine\Desktop\Nuova cartella (4)\Unicam.Paradigmi.Progetto\Unicam.Paradigmi.Progetto.Models\obj\Debug\net6.0\Unicam.Paradigmi.Progetto.Models.csproj.CoreCompileInputs.cache
+C:\Users\Famine\Desktop\Nuova cartella (4)\Unicam.Paradigmi.Progetto\Unicam.Paradigmi.Progetto.Models\obj\Debug\net6.0\Unicam.Paradigmi.Progetto.Models.sourcelink.json
+C:\Users\Famine\Desktop\Nuova cartella (4)\Unicam.Paradigmi.Progetto\Unicam.Paradigmi.Progetto.Models\obj\Debug\net6.0\Unicam.Paradigmi.Progetto.Models.dll
+C:\Users\Famine\Desktop\Nuova cartella (4)\Unicam.Paradigmi.Progetto\Unicam.Paradigmi.Progetto.Models\obj\Debug\net6.0\refint\Unicam.Paradigmi.Progetto.Models.dll
+C:\Users\Famine\Desktop\Nuova cartella (4)\Unicam.Paradigmi.Progetto\Unicam.Paradigmi.Progetto.Models\obj\Debug\net6.0\Unicam.Paradigmi.Progetto.Models.pdb
+C:\Users\Famine\Desktop\Nuova cartella (4)\Unicam.Paradigmi.Progetto\Unicam.Paradigmi.Progetto.Models\obj\Debug\net6.0\ref\Unicam.Paradigmi.Progetto.Models.dll
+C:\Users\Alice\Desktop\finale2\Unicam.Paradigmi.Progetto\Unicam.Paradigmi.Progetto.Models\bin\Debug\net6.0\Unicam.Paradigmi.Progetto.Models.deps.json
+C:\Users\Alice\Desktop\finale2\Unicam.Paradigmi.Progetto\Unicam.Paradigmi.Progetto.Models\bin\Debug\net6.0\Unicam.Paradigmi.Progetto.Models.dll
+C:\Users\Alice\Desktop\finale2\Unicam.Paradigmi.Progetto\Unicam.Paradigmi.Progetto.Models\bin\Debug\net6.0\Unicam.Paradigmi.Progetto.Models.pdb
+C:\Users\Alice\Desktop\finale2\Unicam.Paradigmi.Progetto\Unicam.Paradigmi.Progetto.Models\obj\Debug\net6.0\Unicam.Paradigmi.Progetto.Models.csproj.AssemblyReference.cache
+C:\Users\Alice\Desktop\finale2\Unicam.Paradigmi.Progetto\Unicam.Paradigmi.Progetto.Models\obj\Debug\net6.0\Unicam.Paradigmi.Progetto.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alice\Desktop\finale2\Unicam.Paradigmi.Progetto\Unicam.Paradigmi.Progetto.Models\obj\Debug\net6.0\Unicam.Paradigmi.Progetto.Models.AssemblyInfoInputs.cache
+C:\Users\Alice\Desktop\finale2\Unicam.Paradigmi.Progetto\Unicam.Paradigmi.Progetto.Models\obj\Debug\net6.0\Unicam.Paradigmi.Progetto.Models.AssemblyInfo.cs
+C:\Users\Alice\Desktop\finale2\Unicam.Paradigmi.Progetto\Unicam.Paradigmi.Progetto.Models\obj\Debug\net6.0\Unicam.Paradigmi.Progetto.Models.csproj.CoreCompileInputs.cache
+C:\Users\Alice\Desktop\finale2\Unicam.Paradigmi.Progetto\Unicam.Paradigmi.Progetto.Models\obj\Debug\net6.0\Unicam.Paradigmi.Progetto.Models.dll
+C:\Users\Alice\Desktop\finale2\Unicam.Paradigmi.Progetto\Unicam.Paradigmi.Progetto.Models\obj\Debug\net6.0\refint\Unicam.Paradigmi.Progetto.Models.dll
+C:\Users\Alice\Desktop\finale2\Unicam.Paradigmi.Progetto\Unicam.Paradigmi.Progetto.Models\obj\Debug\net6.0\Unicam.Paradigmi.Progetto.Models.pdb
+C:\Users\Alice\Desktop\finale2\Unicam.Paradigmi.Progetto\Unicam.Paradigmi.Progetto.Models\obj\Debug\net6.0\ref\Unicam.Paradigmi.Progetto.Models.dll
+C:\Users\edott\OneDrive\Desktop\Desktop\ProgettoEnterprise\EP6\Unicam.Paradigmi.Progetto\Unicam.Paradigmi.Progetto.Models\bin\Debug\net6.0\Unicam.Paradigmi.Progetto.Models.deps.json
+C:\Users\edott\OneDrive\Desktop\Desktop\ProgettoEnterprise\EP6\Unicam.Paradigmi.Progetto\Unicam.Paradigmi.Progetto.Models\bin\Debug\net6.0\Unicam.Paradigmi.Progetto.Models.dll
+C:\Users\edott\OneDrive\Desktop\Desktop\ProgettoEnterprise\EP6\Unicam.Paradigmi.Progetto\Unicam.Paradigmi.Progetto.Models\bin\Debug\net6.0\Unicam.Paradigmi.Progetto.Models.pdb
+C:\Users\edott\OneDrive\Desktop\Desktop\ProgettoEnterprise\EP6\Unicam.Paradigmi.Progetto\Unicam.Paradigmi.Progetto.Models\obj\Debug\net6.0\Unicam.Paradigmi.Progetto.Models.csproj.AssemblyReference.cache
+C:\Users\edott\OneDrive\Desktop\Desktop\ProgettoEnterprise\EP6\Unicam.Paradigmi.Progetto\Unicam.Paradigmi.Progetto.Models\obj\Debug\net6.0\Unicam.Paradigmi.Progetto.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edott\OneDrive\Desktop\Desktop\ProgettoEnterprise\EP6\Unicam.Paradigmi.Progetto\Unicam.Paradigmi.Progetto.Models\obj\Debug\net6.0\Unicam.Paradigmi.Progetto.Models.AssemblyInfoInputs.cache
+C:\Users\edott\OneDrive\Desktop\Desktop\ProgettoEnterprise\EP6\Unicam.Paradigmi.Progetto\Unicam.Paradigmi.Progetto.Models\obj\Debug\net6.0\Unicam.Paradigmi.Progetto.Models.AssemblyInfo.cs
+C:\Users\edott\OneDrive\Desktop\Desktop\ProgettoEnterprise\EP6\Unicam.Paradigmi.Progetto\Unicam.Paradigmi.Progetto.Models\obj\Debug\net6.0\Unicam.Paradigmi.Progetto.Models.csproj.CoreCompileInputs.cache
+C:\Users\edott\OneDrive\Desktop\Desktop\ProgettoEnterprise\EP6\Unicam.Paradigmi.Progetto\Unicam.Paradigmi.Progetto.Models\obj\Debug\net6.0\Unicam.Paradigmi.Progetto.Models.sourcelink.json
+C:\Users\edott\OneDrive\Desktop\Desktop\ProgettoEnterprise\EP6\Unicam.Paradigmi.Progetto\Unicam.Paradigmi.Progetto.Models\obj\Debug\net6.0\Unicam.Paradigmi.Progetto.Models.dll
+C:\Users\edott\OneDrive\Desktop\Desktop\ProgettoEnterprise\EP6\Unicam.Paradigmi.Progetto\Unicam.Paradigmi.Progetto.Models\obj\Debug\net6.0\refint\Unicam.Paradigmi.Progetto.Models.dll
+C:\Users\edott\OneDrive\Desktop\Desktop\ProgettoEnterprise\EP6\Unicam.Paradigmi.Progetto\Unicam.Paradigmi.Progetto.Models\obj\Debug\net6.0\Unicam.Paradigmi.Progetto.Models.pdb
+C:\Users\edott\OneDrive\Desktop\Desktop\ProgettoEnterprise\EP6\Unicam.Paradigmi.Progetto\Unicam.Paradigmi.Progetto.Models\obj\Debug\net6.0\ref\Unicam.Paradigmi.Progetto.Models.dll
