@@ -1,0 +1,45 @@
+# WebApi
+Project for the purpose of carrying out the Advanced Programming Paradigms exam for the Enterprise module
+
+Group composed of:
+Doctors Edoardo, Luciani Giovanni, Santolini Alice
+
+
+Development of Project number 3: Creation of a web API that allows the management of a multi-user distribution list.
+
+The application must have a list of users with the following properties:
+- Email
+- First name
+- Surname
+- Password
+
+Each user can own one or more distribution lists.
+Each distribution list has the following properties:
+- Name of the list
+- Owner
+- a list of Recipient Emails
+
+
+The bees that will need to be made are the following:
+  - Creation of a user (anonymous without authentication)
+  - Authentication
+  - Creation of a distribution list
+  - Adding a recipient to a distribution list
+  - Deleting a recipient from a distribution list
+  - Sending a communication to a distribution list.
+    Through this call, an email must be sent to all members of the distribution list
+
+  - Given a recipient get all the distribution lists associated with him
+    The search will have to page the results, based on a parameter passed in the call
+
+    # Creation of the db
+    To create the database, create a user with the following characteristics:
+    - User Id: user distributions
+    - Password: distributions
+
+     Subsequently you can dump the db present in the repository in:
+
+    Unicam.Paradigmi.Progetto.Models-->Database Folder-->scriptFinale.sql
+
+    # Starting the solution
+    Set Unicam.Paradigmi.Progetto.Web-Deployment as startup project to be able to test bees with swagger
