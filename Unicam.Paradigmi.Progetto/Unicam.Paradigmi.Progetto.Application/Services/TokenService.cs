@@ -10,45 +10,56 @@ using Unicam.Paradigmi.Progetto.Models.Entities;
 
 namespace Unicam.Paradigmi.Progetto.Application.Services
 {
-    /*
-     * This Class is used to create a JWT token for the user.
-     * 
-     * @param _jwtAuthOption: The JWTAuthOption object that contains the JWT key and issuer.
-     * @param _utenteService: The UtenteService object that contains the methods to interact with the Utente entity.
-     * 
-     * @return The JWT token.
-     * **/
+    /// <summary>
+    /// Provides methods for creating JWT tokens.
+    /// </summary>
     public class TokenService : ITokenService
     {
         private readonly JWTAuthOption _jwtAuthOption;
         private readonly IUtenteService _utenteService;
 
+        /// <summary>
+        /// Initializes a new instance of the <see cref="TokenService"/> class.
+        /// </summary>
+        /// <param name="jwtAuthOption">The JWT authentication options.</param>
+        /// <param name="utenteService">The user service.</param>
         public TokenService(IOptions<JWTAuthOption> jwtAuthOption, IUtenteService utenteService)
         {
             _jwtAuthOption = jwtAuthOption.Value;
             _utenteService = utenteService;
         }
 
+        /// <summary>
+        /// Creates a JWT token for the specified user.
+        /// </summary>
+        /// <param name="request">The request containing the user's email and password.</param>
+        /// <returns>A JWT token as a string.</returns>
         public async Task<string> CreateTokenAsync(CreateTokenRequest request)
         {
             var utente = await _utenteService.GetUtenteByEmailAsync(request.Email);
-            List<Claim> claims = new List<Claim>();
-            claims.Add(new Claim(
-                "Email",
-                 $"{utente.Email}"));
-            claims.Add(new Claim(
-                 "IdUtente",
-                 $"{utente.IdUtente}"));
+
+            if (utente == null)
+            {
+                throw new ArgumentException("Invalid email or password.");
+            }
+
+            List<Claim> claims = new List<Claim>
+            {
+                new Claim("Email", utente.Email),
+                new Claim("IdUtente", utente.IdUtente.ToString())
+            };
 
             var securityKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(_jwtAuthOption.Key));
             var credentials = new SigningCredentials(securityKey, SecurityAlgorithms.HmacSha256);
+
             var securityToken = new JwtSecurityToken(
                 _jwtAuthOption.Issuer,
                 null,
                 claims,
                 expires: DateTime.Now.AddMinutes(120),
                 signingCredentials: credentials
-                );
+            );
+
             return new JwtSecurityTokenHandler().WriteToken(securityToken);
         }
     }
