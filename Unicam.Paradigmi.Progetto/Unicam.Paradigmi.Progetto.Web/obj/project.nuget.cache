@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jdubPTWOov6LZdx6sd4TTLaTuyj2uJqoynyFBkAn88N42H4IvWiC6Bd5PzV6cjqBLx424TDGuqxQUwPcOQuARQ==",
+  "dgSpecHash": "jZikCpJGHSk3ZzirCdq6Q85cn5pUGEGS6dO0rEGjior+pARu9CPaDvvKv4e0+LIGV/elRBK9kgmsJbxjvYOFqw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\edott\\OneDrive\\Desktop\\Desktop\\WebApi\\Unicam.Paradigmi.Progetto\\Unicam.Paradigmi.Progetto.Web\\Unicam.Paradigmi.Progetto.Web.csproj",
+  "projectFilePath": "C:\\Users\\edott\\OneDrive\\Documenti\\GitHub\\WebApi\\Unicam.Paradigmi.Progetto\\Unicam.Paradigmi.Progetto.Web\\Unicam.Paradigmi.Progetto.Web.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\edott\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\edott\\.nuget\\packages\\azure.identity\\1.11.0\\azure.identity.1.11.0.nupkg.sha512",

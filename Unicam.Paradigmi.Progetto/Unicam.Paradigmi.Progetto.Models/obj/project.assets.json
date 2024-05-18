@@ -6985,11 +6985,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\edott\\OneDrive\\Desktop\\Desktop\\WebApi\\Unicam.Paradigmi.Progetto\\Unicam.Paradigmi.Progetto.Models\\Unicam.Paradigmi.Progetto.Models.csproj",
+      "projectUniqueName": "C:\\Users\\edott\\OneDrive\\Documenti\\GitHub\\WebApi\\Unicam.Paradigmi.Progetto\\Unicam.Paradigmi.Progetto.Models\\Unicam.Paradigmi.Progetto.Models.csproj",
       "projectName": "Unicam.Paradigmi.Progetto.Models",
-      "projectPath": "C:\\Users\\edott\\OneDrive\\Desktop\\Desktop\\WebApi\\Unicam.Paradigmi.Progetto\\Unicam.Paradigmi.Progetto.Models\\Unicam.Paradigmi.Progetto.Models.csproj",
+      "projectPath": "C:\\Users\\edott\\OneDrive\\Documenti\\GitHub\\WebApi\\Unicam.Paradigmi.Progetto\\Unicam.Paradigmi.Progetto.Models\\Unicam.Paradigmi.Progetto.Models.csproj",
       "packagesPath": "C:\\Users\\edott\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\edott\\OneDrive\\Desktop\\Desktop\\WebApi\\Unicam.Paradigmi.Progetto\\Unicam.Paradigmi.Progetto.Models\\obj\\",
+      "outputPath": "C:\\Users\\edott\\OneDrive\\Documenti\\GitHub\\WebApi\\Unicam.Paradigmi.Progetto\\Unicam.Paradigmi.Progetto.Models\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "aNG6tDtrqCTtW6X9vYzLp5nxpD58A809R2NrS8MaSbGPdWSZEy341aKFPy5KhXzDxNQkqoHavR1r00cWrFr+iw==",
+  "dgSpecHash": "m5XEo0QEaSpbCTdyfS1v4O6/h1fvQvvLybQdf5+PEUTDyf8xVdygTx85uECBp3eIsWycDwQw/1OiIeq55SzB5w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\edott\\OneDrive\\Desktop\\Desktop\\WebApi\\Unicam.Paradigmi.Progetto\\Unicam.Paradigmi.Progetto.Models\\Unicam.Paradigmi.Progetto.Models.csproj",
+  "projectFilePath": "C:\\Users\\edott\\OneDrive\\Documenti\\GitHub\\WebApi\\Unicam.Paradigmi.Progetto\\Unicam.Paradigmi.Progetto.Models\\Unicam.Paradigmi.Progetto.Models.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\edott\\.nuget\\packages\\castle.core\\4.4.1\\castle.core.4.4.1.nupkg.sha512",
     "C:\\Users\\edott\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
