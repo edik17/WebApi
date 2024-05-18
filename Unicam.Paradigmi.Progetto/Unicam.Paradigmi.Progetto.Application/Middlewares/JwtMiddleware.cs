@@ -8,44 +8,51 @@ using Unicam.Paradigmi.Progetto.Application.Options;
 
 public class JwtMiddleware
 {
-    private RequestDelegate _next;
+    private readonly RequestDelegate _next;
     private readonly JWTAuthOption _jwtAuthentication;
 
-    public JwtMiddleware(RequestDelegate next, IOptions<JWTAuthOption> _jwtAuthentication)
+    public JwtMiddleware(RequestDelegate next, IOptions<JWTAuthOption> jwtAuthentication)
     {
         _next = next;
-        this._jwtAuthentication = _jwtAuthentication.Value;
+        _jwtAuthentication = jwtAuthentication.Value;
     }
 
-    public async Task InvokeAsync(HttpContext context
-        , IUtenteService utenteService
-        , IConfiguration configuration
-        , IOptions<EmailOption> emailOptions
-        )
+    /// <summary>
+    /// Middleware to validate JWT tokens and attach user information to the context.
+    /// </summary>
+    public async Task InvokeAsync(HttpContext context, IUtenteService utenteService)
     {
-        context.RequestServices.GetService<IUtenteService>();
+        // Retrieve the JWT token from the request header
         var token = context.Request.Headers["Authorization"].FirstOrDefault()?.Split(" ").Last();
         if (token != null)
         {
-            attachUserToContext(context, utenteService, token);
+            // Validate and attach user information to the context
+            AttachUserToContext(context, utenteService, token);
         }
         else
         {
+            // If token is missing, return Unauthorized status
             context.Response.StatusCode = (int)HttpStatusCode.Unauthorized;
             context.Response.ContentType = "application/json";
-            await context.Response.WriteAsync("{\"errore\": \"Token Mancante\"}");
+            await context.Response.WriteAsync("{\"error\": \"Missing Token\"}");
             return;
         }
 
+        // Continue to the next middleware
         await _next.Invoke(context);
     }
-    
-    private void attachUserToContext (HttpContext context, IUtenteService utenteService, string token)
+
+    /// <summary>
+    /// Validates the JWT token and attaches user information to the context.
+    /// </summary>
+    private void AttachUserToContext(HttpContext context, IUtenteService utenteService, string token)
     {
         try
         {
             var tokenHandler = new JwtSecurityTokenHandler();
             var key = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(_jwtAuthentication.Key));
+
+            // Validate the JWT token
             tokenHandler.ValidateToken(token, new TokenValidationParameters
             {
                 ValidateAudience = true,
@@ -59,11 +66,15 @@ public class JwtMiddleware
 
             var jwtToken = (JwtSecurityToken)validateToken;
             var userId = int.Parse(jwtToken.Claims.First(x => x.Type == "IdUtente").Value);
+
+            // Attach user information to the context
             context.Items["Utente"] = utenteService.GetUtenteByIdAsync(userId);
         }
-        catch(Exception ex)
+        catch (Exception ex)
         {
-            Console.WriteLine("Errore in JwtMiddleware: " + ex.Message);
+            // Log and handle token validation errors
+            Console.WriteLine("Error in JwtMiddleware: " + ex.Message);
+            throw; // Rethrow the exception for centralized error handling
         }
     }
 }

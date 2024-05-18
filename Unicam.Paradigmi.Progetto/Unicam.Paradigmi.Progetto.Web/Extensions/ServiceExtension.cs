@@ -33,7 +33,7 @@ namespace Unicam.Paradigmi.Progetto.Web.Extensions
                 {
                     Name = "Authorization",
                     Type = SecuritySchemeType.ApiKey,
-                    Scheme = "Bearer",
+                    Scheme = "Bearer", //Assume che il token venga passato come Bearer token ovvero che chi presenta il token sia il legittimo proprietario
                     BearerFormat = "JWT",
                     In = ParameterLocation.Header,
                     Description = "JWT Authorization header using the Bearer scheme. \r\n\r\n Enter 'Bearer' [space] and then your token in the text input below.\r\n\r\nExample: \"Bearer 1safsfsdfdfd\"",
