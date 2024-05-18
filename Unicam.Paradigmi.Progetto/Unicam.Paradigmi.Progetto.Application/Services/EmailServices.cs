@@ -9,59 +9,58 @@ using Unicam.Paradigmi.Progetto.Models.Entities;
 
 namespace Unicam.Paradigmi.Progetto.Application.Services
 {
-    /*
-     * This Class is a Service that manages the sending of emails. It implements the IEmailService interface.
-     * 
-     * @param _emailOption: the options of the email service
-     * @param destinatarioService: the service that manages the recipients
-     * 
-     * @return the service that manages the sending of emails
-     * **/
+    /// <summary>
+    /// Provides services for sending emails using Microsoft Graph API.
+    /// </summary>
     public class EmailServices : IEmailService
     {
-        public readonly EmailOption _emailOption;
-        public readonly IDestinatarioService destinatarioService;
+        private readonly EmailOption _emailOption;
+        private readonly IDestinatarioService _destinatarioService;
 
+        /// <summary>
+        /// Initializes a new instance of the <see cref="EmailServices"/> class.
+        /// </summary>
+        /// <param name="destinatarioService">Service for handling destinatario entities.</param>
+        /// <param name="emailOption">Email options for configuring the email service.</param>
         public EmailServices(IDestinatarioService destinatarioService, IOptions<EmailOption> emailOption)
         {
-            this._emailOption = emailOption.Value;
-            this.destinatarioService = destinatarioService;
+            _emailOption = emailOption.Value;
+            _destinatarioService = destinatarioService;
         }
 
-        /*
-         * This Method sends an email to the recipients of a distribution list.
-         * 
-         * @param subject: the subject of the email
-         * @param body: the body of the email
-         * @param idListaDestinatari: the id of the distribution list
-         * 
-         * @return a list of recipients
-         * **/
+        /// <summary>
+        /// Sends an email with the specified subject and body to the recipients in the specified distribution list.
+        /// </summary>
+        /// <param name="subject">The subject of the email.</param>
+        /// <param name="body">The body content of the email.</param>
+        /// <param name="idListaDestinatari">The ID of the distribution list containing the recipients.</param>
+        /// <returns>A Task that represents the asynchronous operation. The task result contains a list of <see cref="Destinatario"/> entities who received the email.</returns>
         public async Task<List<Destinatario>> SendEmailAsync(string subject, string body, int idListaDestinatari)
         {
-            var destinatariEmail = await destinatarioService.GetDestinatariAsync(idListaDestinatari);
+            var destinatariEmail = await _destinatarioService.GetDestinatariAsync(idListaDestinatari);
 
             List<Recipient> destinatari = new List<Recipient>();
 
-            var clientCredential = new ClientSecretCredential(_emailOption.TenantId
-                , _emailOption.ClientId
-                , _emailOption.ClientSecret
-                );
+            var clientCredential = new ClientSecretCredential(
+                _emailOption.TenantId,
+                _emailOption.ClientId,
+                _emailOption.ClientSecret
+            );
 
             var client = new GraphServiceClient(clientCredential);
 
-            foreach ( var destinatario in destinatariEmail ) 
+            foreach (var destinatario in destinatariEmail)
             {
-                destinatari.Add(new Recipient()
+                destinatari.Add(new Recipient
                 {
-                    EmailAddress = new EmailAddress()
+                    EmailAddress = new EmailAddress
                     {
                         Address = destinatario.Email
                     }
                 });
             }
 
-            Message message = new()
+            Message message = new Message
             {
                 Subject = subject,
                 Body = new ItemBody
@@ -72,14 +71,16 @@ namespace Unicam.Paradigmi.Progetto.Application.Services
                 ToRecipients = destinatari
             };
 
-            var postRequestBody = new SendMailPostRequestBody();
+            var postRequestBody = new SendMailPostRequestBody
+            {
+                Message = message,
+                SaveToSentItems = true
+            };
 
-            postRequestBody.Message = message;
+            await client.Users[_emailOption.From]
+                .SendMail
+                .PostAsync(postRequestBody);
 
-            postRequestBody.SaveToSentItems = true;
-
-             client.Users[_emailOption.From]
-                .SendMail.PostAsync(postRequestBody);
             return destinatariEmail;
         }
     }
